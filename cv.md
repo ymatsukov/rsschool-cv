@@ -6,7 +6,7 @@ Phone: [+48 508-140-035](tel:+48508140035)
 E-mail: [ymatsukov@gmail.com](mailto:ymatsukov@gmail.com)  
 Linkedin: [linkedin.com/in/yahormatsukov](https://linkedin.com/in/yahormatsukov)  
 GitHub: [github.com/ymatsukov](https://github.com/ymatsukov)
-Discord: [Yahor Matsukov (ymatsukov)#2821](#)
+Discord: [Yahor Matsukov (@ymatsukov)](https://discordapp.com/users/ymatsukov/)
 
 ## About Me
  
