@@ -6,7 +6,7 @@ Phone: [+48 508-140-035](tel:+48508140035)
 E-mail: [ymatsukov@gmail.com](mailto:ymatsukov@gmail.com)  
 Linkedin: [linkedin.com/in/yahormatsukov](https://linkedin.com/in/yahormatsukov)  
 GitHub: [github.com/ymatsukov](https://github.com/ymatsukov)
-Discord: Yahor Matsukov (ymatsukov)#2821
+Discord: [Yahor Matsukov (ymatsukov)#2821](#)
 
 ## About Me
  
@@ -14,13 +14,13 @@ I am 29 years old. I work as electronics repair engineer. I have recently finish
  
 ## Skills
 
-    1.	HTML
-    2.	CSS (Bootstrap, SASS/SCSS, BEM)
-    3.	JavaScript (Fundamentals, ES6+, DOM, JSON)
-    4.	Git/GitHub
-    5.	Avocode, Figma
-    6.	VS Code, Sublime Text, WebStorm
-    7.	Node.js
+    1. HTML
+    2. CSS (Bootstrap, SASS/SCSS, BEM)
+    3. JavaScript (Fundamentals, ES6+, DOM, JSON)
+    4. Git/GitHub
+    5. Avocode, Figma
+    6. VS Code, Sublime Text, WebStorm
+    7. Node.js
     8. React (in progress..)
 
 ## Code Example
@@ -50,8 +50,7 @@ function solution(number){
     *    HTML CSS
     *    JavaScript
 * RS School
-    *    JS / FRONT-END (RU) (stage 0)
-    *    JS / FRONT-END (RU) (stage 1 in process)
+    *    JS / FRONT-END (RU) (stage 0 in progress..)
 
 ## Conferences
 
